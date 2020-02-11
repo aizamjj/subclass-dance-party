@@ -25,4 +25,4 @@ MakeDancer.prototype.setPosition = function(top, left) {
 };
 
 
-
+// var newDancer = new MakeDancer(20, 40, 100)
